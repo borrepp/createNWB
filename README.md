@@ -4,7 +4,7 @@ Compile YAU-Lab[^1] behavior  `*.yaml, *.eye` and electrophysiological[^2] `*.ne
 [^1]: https://yaulab.com/
 [^2]:https://rippleneuro.com/
 
-It requires python 3.8 (https://www.python.org/downloads/release/python-383/)
+It uses Python 3.8 (https://www.python.org/downloads/release/python-383/)
 > [!NOTE]
 > only tested on Windows
 
