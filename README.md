@@ -1,8 +1,9 @@
 # createNWB
 
-Compile YAU-Lab[^1] behavior  `*.yaml, *.eye` and electrophysiological[^2] `*.nev & *.nsX` output files into an NWB format.
+Compile YAU-Lab[^1] behavior  `*.yaml, *.eye` and electrophysiological[^2] `*.nev & *.nsX` output files into an NWB[^3] format.
 [^1]: https://yaulab.com/
-[^2]:https://rippleneuro.com/
+[^2]: https://rippleneuro.com/
+[^3]: https://www.nwb.org/<br />https://github.com/NeurodataWithoutBorders/pynwb
 
 It uses Python 3.8 (https://www.python.org/downloads/release/python-383/)
 > [!NOTE]
