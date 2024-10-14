@@ -1,6 +1,8 @@
 # createNWB
 
-Compile YAU-lab native files (*.yaml, *.eye, ripple-*.nev, ripple-*.nsX) into an NWB format
+Compile YAU-Lab[^1] behavior  `*.yaml, *.eye` and electrophysiological[^2] `*.nev & *.nsX` output files into an NWB format.
+[^1]: https://yaulab.com/
+[^2]:https://rippleneuro.com/
 
 It requires python 3.8 (https://www.python.org/downloads/release/python-383/)
 > [!NOTE]
@@ -26,7 +28,7 @@ python -m pip install -U pynwb
 python -m pip install nwbinspector
 ```
 
-* Ripple library
+* Ripple[^2] library
 
   It requires python library for reading *.nev and *nsX files.<br />
   >Email Ripple support _support@jessimischel.zendesk.com_ to get the folder _"pyns3_beta"_
